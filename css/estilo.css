@@ -141,8 +141,3 @@ footer {
   .footer {
     flex-direction: column;
     align-items: center; } }
-
-/*vista mobile Contacto*/
-@media screen and (min-width: 320px) and (max-width: 940px) {
-  .inputContact {
-    margin-left: 25%; } }
